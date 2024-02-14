@@ -1,6 +1,6 @@
 import * as THREE from "three";
 
-import { OrbitControls } from './node_modules/three/examples/jsm/controls/OrbitControls.js';
+// import { OrbitControls } from './node_modules/three/examples/jsm/controls/OrbitControls.js';
 
 
 var renderer, scene, camera, heart, controls, cubes = [], groups = [];
